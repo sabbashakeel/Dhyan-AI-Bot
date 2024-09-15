@@ -1,5 +1,4 @@
-# Dhyan-AI-Bot
-# Dhyan Bot Interface
+# Dhyan-AI-Bot Interface
 
 Interface to do interaction with Dhyan bot
 
